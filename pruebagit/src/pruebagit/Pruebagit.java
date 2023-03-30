@@ -6,7 +6,7 @@ public class Pruebagit {
 		// TODO Auto-generated method stub
 		String nombre="Sevda";
 		System.out.println("Hola Git");
-		System.out.println("Hola"+nombre);
+		System.out.println("Hola señora "+nombre);
 	}
 
 }
